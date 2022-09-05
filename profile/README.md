@@ -1,3 +1,3 @@
-# 限界島 Project
+# 軍艦島 Project
 
 [Project](https://github.com/orgs/gnknzm/projects/1)
