@@ -1,3 +1,3 @@
-# 軍艦島 Project
+# gnknzm.net
 
 [Project](https://github.com/orgs/gnknzm/projects/1)
